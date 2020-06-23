@@ -8,4 +8,4 @@ Example with an embedded Tomcat server exposing a websocket endpoint configured 
 `java -jar target/embedded-tomcat-with-programmatic-websocket-0.1-SNAPSHOT.jar`
 
 # Access it
-ws://localhost:8080/echo with your favorite websocket client (ex. Simple WebSocket Client)
+Using your favorite websocket client (ex. Simple Websocket Client), access `ws://localhost:8080/echo`
